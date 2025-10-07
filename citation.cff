@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "URLBank Domain Lists (Head & Tail)"
+authors:
+  - family-names: Marineli
+    given-names: Felipe
+  - family-names: Cetorelli
+    given-names: Valerio
+  - family-names: Crescenzi
+    given-names: Valter
+  - family-names: Furche
+    given-names: Tim
+  - family-names: Guo
+    given-names: Xiaonan
+date-released: 2025-10-07
+version: v1.0.0
+repository-code: https://github.com/felipemarineli/urlbank-domain-lists
+preferred-citation:
+  type: article
+  title: "URLBank: Data-Driven URL Discovery via Temporal Link Graphs"
+  year: 2025
+  authors:
+    - family-names: Marineli
+      given-names: Felipe
+    - family-names: Cetorelli
+      given-names: Valerio
+    - family-names: Crescenzi
+      given-names: Valter
+    - family-names: Furche
+      given-names: Tim
+    - family-names: Guo
+      given-names: Xiaonan
