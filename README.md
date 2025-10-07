@@ -1,6 +1,6 @@
 # URLBank Domain Lists (Head & Tail)
 
-This repository contains the normalized and deduplicated domain lists used in the *URLBank: Data-Driven URL Discovery via Temporal Link Graphs* (Industrial Track, ACM 2025) paper.
+This repository contains the normalized and deduplicated domain lists used in the *URLBank: Data-Driven URL Discovery via Temporal Link Graphs* (Industrial Track, WWW 2026) paper.
 
 - `data/head.txt` — Head sources (`n=2,440`)
 - `data/tail.txt` — Tail sources (`n=2,798`)
