@@ -1,5 +1,7 @@
 cff-version: 1.2.0
+message: "If you use these domain lists, please cite the paper below."
 title: "URLBank Domain Lists (Head & Tail)"
+license: CC-BY-NC-4.0
 authors:
   - family-names: Marineli
     given-names: Felipe
@@ -11,13 +13,9 @@ authors:
     given-names: Tim
   - family-names: Guo
     given-names: Xiaonan
-date-released: 2025-10-07
-version: v1.0.0
-repository-code: https://github.com/felipemarineli/urlbank-domain-lists
 preferred-citation:
-  type: article
+  type: conference-paper
   title: "URLBank: Data-Driven URL Discovery via Temporal Link Graphs"
-  year: 2025
   authors:
     - family-names: Marineli
       given-names: Felipe
@@ -29,3 +27,11 @@ preferred-citation:
       given-names: Tim
     - family-names: Guo
       given-names: Xiaonan
+  year: 2026
+  collection-title: "Proceedings of the ACM Web Conference 2026 (WWW '26)"
+  publisher:
+    name: "Association for Computing Machinery"
+  start: 7914
+  end: 7922
+  doi: "10.1145/3774904.3792814"
+  isbn: "9798400723070"

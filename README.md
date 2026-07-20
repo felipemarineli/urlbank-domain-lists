@@ -13,12 +13,30 @@ Domains are normalized by:
 
 These lists correspond to the *head* (high-value editorial) and *tail* (long-tail) segments used in the paper’s large-scale evaluation.
 
-### License
+## License
 This work is licensed under the Creative Commons Attribution–NonCommercial 4.0 International License (CC BY-NC 4.0).
 
-### Citation
+## Citation
+
 If you use these lists, please cite:
 
-Marineli, F., Cetorelli, V., Crescenzi, V., Furche, T., and Guo, X. (2025).  
-*URLBank: Data-Driven URL Discovery via Temporal Link Graphs.*  
-Industrial Track, ACM. DOI: TBA.
+> Felipe Marineli, Valerio Cetorelli, Valter Crescenzi, Tim Furche, and Xiaonan Guo. 2026.
+> URLBank: Data-Driven URL Discovery via Temporal Link Graphs. In *Proceedings of the
+> ACM Web Conference 2026* (WWW '26). Association for Computing Machinery, New York, NY,
+> USA, 7914–7922. https://doi.org/10.1145/3774904.3792814
+
+```bibtex
+@inproceedings{marineli2026urlbank,
+  author    = {Marineli, Felipe and Cetorelli, Valerio and Crescenzi, Valter and Furche, Tim and Guo, Xiaonan},
+  title     = {{URLBank}: Data-Driven {URL} Discovery via Temporal Link Graphs},
+  booktitle = {Proceedings of the ACM Web Conference 2026},
+  series    = {WWW '26},
+  year      = {2026},
+  pages     = {7914--7922},
+  publisher = {Association for Computing Machinery},
+  address   = {New York, NY, USA},
+  isbn      = {9798400723070},
+  doi       = {10.1145/3774904.3792814},
+  url       = {https://doi.org/10.1145/3774904.3792814}
+}
+```
